@@ -1,0 +1,378 @@
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.exe
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.deps.json
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.runtimeconfig.json
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.runtimeconfig.dev.json
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ReadCity.pdb
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\EFCore.Tools.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Npgsql.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.AssemblyReference.cache
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\App.g.cs
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity_MarkupCompile.cache
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity_MarkupCompile.lref
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.g.resources
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.AssemblyInfoInputs.cache
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.AssemblyInfo.cs
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.CoreCompileInputs.cache
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.Up2Date
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.dll
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\refint\ReadCity.dll
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.pdb
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity.genruntimeconfig.cache
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ref\ReadCity.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Buffers.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.CommandLine.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Memory.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\System.CommandLine.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Humanizer.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\ReadCity_Content.g.cs
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\CatalogWindow.g.cs
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\App.baml
+D:\Модуль 1\ReadCity\obj\Debug\net10.0-windows\CatalogWindow.baml
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Buffers.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.CommandLine.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Memory.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\System.CommandLine.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.exe
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.deps.json
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.runtimeconfig.json
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.runtimeconfig.dev.json
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ReadCity.pdb
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Humanizer.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\EFCore.Tools.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Npgsql.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.AssemblyReference.cache
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\CatalogWindow.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\App.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity_Content.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity_MarkupCompile.cache
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity_MarkupCompile.lref
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\App.baml
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\CatalogWindow.baml
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.g.resources
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.AssemblyInfoInputs.cache
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.AssemblyInfo.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.CoreCompileInputs.cache
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.csproj.Up2Date
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.dll
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\refint\ReadCity.dll
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.pdb
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ReadCity.genruntimeconfig.cache
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ref\ReadCity.dll
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\1.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\10.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\11.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\12.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\13.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\14.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\15.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\16.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\17.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\18.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\19.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\2.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\20.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\3.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\4.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\5.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\6.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\7.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\8.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\9.jpg
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\icon.ico
+D:\Module1\ReadCity\bin\Debug\net10.0-windows\Images\icon.png
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ProductAddWindow.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\ProductAddWindow.baml
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\OrdersWindow.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\OrdersWindow.baml
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\OrderAddWindow.g.cs
+D:\Module1\ReadCity\obj\Debug\net10.0-windows\OrderAddWindow.baml

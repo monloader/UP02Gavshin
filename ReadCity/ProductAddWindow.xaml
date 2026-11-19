@@ -1,0 +1,61 @@
+﻿<Window x:Class="ReadCity.ProductAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadCity"
+        mc:Ignorable="d"
+        Icon="Images/icon.ico"
+        Title="ProductAddWindow" Height="900" Width="500">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Фото товара:" FontWeight="Bold"/>
+                <Border BorderBrush="Gray" BorderThickness="1" Width="150" Height="150" Margin="0,5,0,10" Background="White" HorizontalAlignment="Left">
+                    <Image x:Name="PhotoPreview" Stretch="Uniform"/>
+                </Border>
+                <Button Content="Выбрать фото" Width="120" HorizontalAlignment="Left" Margin="0,0,0,15" Click="SelectPhotoBtn_Click"/>
+
+                <TextBlock Text="Артикул:" FontWeight="Bold"/>
+                <TextBox x:Name="ArticleBox" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Наименование товара:" FontWeight="Bold"/>
+                <TextBox x:Name="NameBox" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Категория:" FontWeight="Bold"/>
+                <ComboBox x:Name="CategoryBox" DisplayMemberPath="Name" SelectedValuePath="Id" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Описание товара:" FontWeight="Bold"/>
+                <TextBox x:Name="DescriptionBox" Margin="0,5,0,10" Height="60" TextWrapping="Wrap" AcceptsReturn="True"/>
+
+                <TextBlock Text="Производитель:" FontWeight="Bold"/>
+                <ComboBox x:Name="ManufacturerBox" DisplayMemberPath="Name" SelectedValuePath="Id" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Поставщик:" FontWeight="Bold"/>
+                <ComboBox x:Name="SupplierBox" DisplayMemberPath="Name" SelectedValuePath="Id" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Цена (руб.):" FontWeight="Bold"/>
+                <TextBox x:Name="PriceBox" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Единица измерения:" FontWeight="Bold"/>
+                <ComboBox x:Name="UnitBox" DisplayMemberPath="Name" SelectedValuePath="Id" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Количество на складе:" FontWeight="Bold"/>
+                <TextBox x:Name="QuantityBox" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Действующая скидка (%):" FontWeight="Bold"/>
+                <TextBox x:Name="SaleBox" Margin="0,5,0,10" Text="0"/>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button Content="Сохранить" Width="100" Height="30" Margin="0,0,10,0" Click="SaveBtn_Click"/>
+            <Button Content="Отмена" Width="100" Height="30" Click="CancelBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
